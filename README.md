@@ -1,1 +1,3 @@
-# fake-industries.github.io
+# Fake Indiustries
+
+[fake.nz](http://fake.nz/)
