@@ -1,3 +1,3 @@
 # Fake Indiustries
 
-[fake.nz](https://fake.nz/)
+[fake.nz](https://www.fake.nz/)
