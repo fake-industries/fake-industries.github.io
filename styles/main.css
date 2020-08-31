@@ -2,8 +2,17 @@ body {
   background: #000000;
   color: #D8D8D8;
   font-family: monospace;
+  margin: 0px auto;
+  max-width: 700px;
   text-align: center;
+  width:100%;
 }
 a {
   color: #D8D8D8;
+}
+.header {
+  font-size: 20px;
+}
+.content {
+  font-size: 16px;
 }
