@@ -10,6 +10,12 @@ body {
 a {
   color: #D8D8D8;
 }
+img {
+  max-width: 400px;
+}
+ul {
+  text-align: left;
+}
 .header {
   font-size: 20px;
 }
