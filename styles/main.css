@@ -6,7 +6,7 @@
 body {
   background: #000000;
   color: #ff810c;
-  font-family: WorkSans-Light sans-serif;
+  font-family: WorkSans-Light,sans-serif;
   font-size: 20px;
   margin: 0px auto;
   max-width: 700px;
