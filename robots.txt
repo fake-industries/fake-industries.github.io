@@ -1,0 +1,3 @@
+Sitemap: https://www.fake.nz/sitemap.xml
+User-agent: *
+Disallow:
