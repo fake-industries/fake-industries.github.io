@@ -1,0 +1,40 @@
+title: Fake Industries
+email: info@fake.nz
+description: >-
+  A boutique software development startup from
+  New Zealand specializing in audio software.
+baseurl: ""
+url: "https://www.fake.nz/"
+logo: /img/logo.png
+lang: en_NZ
+
+header_pages:
+  - about.md
+  - fuzzball.md
+
+# Social networks
+twitter_username: fake_industries
+github_username: fake-industries
+linkedin_username: fakeindustries
+facebook_username: FakeIndustriesNZ
+soundcloud_username: fake_industries
+
+# Build settings
+permalink: /blog/:year/:month/:day/:title:output_ext
+timezone: Pacific/Auckland
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
