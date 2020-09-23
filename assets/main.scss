@@ -1,0 +1,17 @@
+---
+# custom css
+---
+$background-color: #f3efea;
+$text-color: #424242;
+$brand-color: #ff810c;
+
+@import "minima";
+
+// custom modifications
+table {
+  border: none;
+  td {
+    border: none;
+    vertical-align: top;
+  }
+}
