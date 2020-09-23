@@ -13,7 +13,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://www.fake.nz/feed.xml</loc>
+    <loc>https://www.fake.nz/feed.xml</loc>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
