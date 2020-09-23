@@ -5,11 +5,15 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://www.fake.nz/about.html</loc>
+    <loc>https://www.fake.nz/about/</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://www.fake.nz/fuzzball.html</loc>
+    <loc>https://www.fake.nz/fuzzball/</loc>
     <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.fake.nz/feed.xml</loc>
+    <changefreq>daily</changefreq>
   </url>
 </urlset>
