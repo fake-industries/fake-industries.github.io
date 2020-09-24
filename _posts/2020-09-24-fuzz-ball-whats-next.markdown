@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fuzz Ball VST - What's Next?"
-description: Information about lans for Fuzz Ball Windows version.
+description: Information about plans for Fuzz Ball Windows version.
 date:   2020-09-24 23:01:01 +1200
 image: /img/fuzzball_screenshot_wide.png
 categories: vst plugin windows
