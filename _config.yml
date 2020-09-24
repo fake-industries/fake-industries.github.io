@@ -9,8 +9,9 @@ logo: /img/logo.png
 lang: en_NZ
 
 header_pages:
-  - about.md
   - fuzzball.md
+  - blog.md
+  - about.md
 
 # Social networks
 twitter_username: fake_industries

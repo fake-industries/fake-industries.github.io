@@ -13,6 +13,10 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://www.fake.nz/blog/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://www.fake.nz/feed.xml</loc>
     <changefreq>daily</changefreq>
   </url>
