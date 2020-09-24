@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Fuzz Ball VST v1.1 is available for macOS"
-description: Fuzz Ball Version 1.1 for macOS availble now.
-date:   2020-09-22 22:23:18 +1200
+description: Fuzz Ball Version 1.1 for macOS available now.
+date:   2020-09-24 02:23:18 +1200
 image: /img/fuzzball_screenshot_wide.png
-categories: vst plugin
+categories: vst plugin update macos download
 ---
-![Fake Industries - Fuzz Ball VST](/img/fuzzball_screenshot_wide.png)
+[![Fake Industries - Fuzz Ball VST](/img/fuzzball_screenshot_wide.png)](/fuzzball)
 
 [Fuzz Ball](/fuzzball) version 1.1 is available for macOS now.
 
