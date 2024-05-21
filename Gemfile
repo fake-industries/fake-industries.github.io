@@ -36,4 +36,5 @@ gem "kramdown-parser-gfm"
 
 group :test do
   gem 'bundler-audit'
+  gem 'webrick'
 end
